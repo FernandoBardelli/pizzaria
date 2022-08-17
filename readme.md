@@ -7,7 +7,7 @@
 <br/>
 <p align="center">
     <a href="#sobre">Sobre</a> •
-    <a href="#preview">Pré-Visualização •
+    <a href="#preview">Pré-Visualização</a> •
     <a href="#teste">Teste</a> •
     <a href="#tecnologias">Tecnologias</a> •
     <a href="#contato">Contato</a> •
@@ -31,7 +31,7 @@
 </div>
 <div id="teste">
     <h1>Teste :pencil2:</h1>
-    <p align="center"><a href="" target="_blank">Confira aqui</a></p>
+    <p align="center"><a href="https://fernandobardelli.github.io/pizzaria/" target="_blank">Confira aqui</a></p>
 </div>
 <br/><hr><br/>
 <div id="tecnologias">
