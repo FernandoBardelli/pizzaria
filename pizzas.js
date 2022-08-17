@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:[19.90, 29.90, 39.90], sizes:['4 Fatias', '6 Fatias', '8 Fatias'], description:'Massa tradicional, molho de tomate caseiro, queijo mussarela, tomate, orégano e azeitonas pretas'},
+    {id:2, name:'Marguerita', img:'images/pizza2.png', price:[19.90, 29.90, 39.90], sizes:['4 Fatias', '6 Fatias', '8 Fatias'], description:'Massa tradicional, molho de tomate caseiro, queijo parmesão, tomate cereja e manjericão fresco'},
+    {id:3, name:'Parisiense', img:'images/pizza3.png', price:[24.90, 35.90, 47.90], sizes:['4 Fatias', '6 Fatias', '8 Fatias'], description:'Massa tradicional, molho de tomate caseiro, queijo mussarela, tomate, cogumelo, pimentão verde e azeitonas pretas'},
+    {id:4, name:'Da Casa', img:'images/pizza4.png', price:[24.90, 35.90, 47.90], sizes:['4 Fatias', '6 Fatias', '8 Fatias'], description:'Massa tradicional, molho de tomate caseiro, queijo mussarela, tomate cereja, brócolis, cogumelo, queijo parmesão e azeitonas pretas'},
+    {id:5, name:'Pizzaiolo', img:'images/pizza5.png', price:[24.90, 35.90, 47.90], sizes:['4 Fatias', '6 Fatias', '8 Fatias'], description:'Massa tradicional, molho de tomate caseiro, queijo mussarela, tomate cereja, brócolis, pimentão, milho, bacon, alcaparras e azeitonas pretas'},
+    {id:6, name:'Quatro Queijos', img:'images/pizza6.png', price:[24.90, 35.90, 47.90], sizes:['4 Fatias', '6 Fatias', '8 Fatias'], description:'Massa tradicional, molho de tomate caseiro, queijo mussarela, queijo gorgonzola, queijo parmesão e queijo provolone. Imagem ilustrativa'},
+    {id:7, name:'Chocolate', img:'images/pizza7.png', price:[19.90, 29.90, 39.90], sizes:['4 Fatias', '6 Fatias', '8 Fatias'], description:'Massa tradicional, queijo mussarela, chocolate ao leite cremoso e cobertura de confeitos coloridos'}
+];
